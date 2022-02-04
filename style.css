@@ -1,0 +1,15 @@
+body
+{
+    text-align: center;
+}
+.heading
+{
+    font-size: 50px;
+    margin: 0px;
+    width: 100%;
+}
+.note
+{
+    color: red;
+    font-size: 23px;
+}
